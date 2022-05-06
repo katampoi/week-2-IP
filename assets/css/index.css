@@ -17,3 +17,6 @@
 .para {
     margin: 0rem 4rem;
 }
+.cut{
+    display: flex;
+}
