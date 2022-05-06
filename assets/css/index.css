@@ -20,3 +20,8 @@
 .cut{
     display: flex;
 }
+.move{
+    background-color: black;
+    color: white;
+
+}
