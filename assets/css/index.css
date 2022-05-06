@@ -1,0 +1,19 @@
+*{
+   list-style: none;
+}
+.nav {
+   background-image: url(../myimages/moving\ 1.png) ;
+   padding: 50px;
+
+}
+.list {
+   display: flex;
+   justify-content: space-around;
+   padding: 2rem;
+   border: 1px solid;
+   margin: 2rem 2rem;
+   
+}
+.para {
+    margin: 0rem 4rem;
+}
