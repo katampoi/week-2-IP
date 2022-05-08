@@ -1,10 +1,11 @@
 *{
    list-style: none;
+   font-family: Poppins,Actor,Adamina ;
 }
 .nav {
    background-image: url(../myimages/moving\ 1.png) ;
    padding: 50px;
-   background-size: cover; height:550px; padding-top:80px;">
+   background-size: cover; height:550px; padding-top:80px;
 
 }
 .list {
@@ -57,7 +58,7 @@
 }
 .button{
     background-color: black;
-    color: yellowgreen;
+    color: #FFAC12;
     border-color: white;
     padding: 15px 32px;
     border-radius: 12px;

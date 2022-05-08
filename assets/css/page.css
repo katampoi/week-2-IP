@@ -1,5 +1,6 @@
 *{
     list-style: none;
+    font-family: Poppins,Actor,Adamina ;
 }
 .modern{
     background-color: black;
@@ -58,7 +59,7 @@
 }
 .button{
     background-color: black;
-    color: yellowgreen;
+    color:#FFAC12;
     padding: 15px 32px;
     border-radius: 12px;
 }
