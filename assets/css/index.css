@@ -58,5 +58,9 @@
 .button{
     background-color: black;
     color: yellowgreen;
+    border-color: white;
+    padding: 15px 32px;
+    border-radius: 12px;
 }
+
 
