@@ -4,8 +4,33 @@
 .modern{
     background-color: black;
     color: white;
+    
+    
 }
 .make{
     background-color: black;
     color: white;
+    
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    margin: 2rem 20rem;
+    padding: 40px;
+}
+.ave{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    margin: 0rem 4rem;
+}
+.pic{
+    display: flex;
+    margin: 2rem 0rem;
+}
+.kitchen{
+     margin: 0rem 8rem;
+     padding: 40px;
+
 }
